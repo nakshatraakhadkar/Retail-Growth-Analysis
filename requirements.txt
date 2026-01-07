@@ -1,0 +1,7 @@
+Data - Cleaning,pandas,"The absolute core. You will use this for 90% of the work (loading data, filtering, cleaning)."
+Math - numpy, "Used by Pandas under the hood for fast calculations."
+Visualization - matplotlib, "The base plotting library."
+Visualization - seaborn, "A wrapper around Matplotlib that makes statistical graphs (like heatmaps and violin plots) look professional with one line of code."
+Statistics - scipy, "You need this for the T-Tests and ANOVA (calculating p-values) to prove your findings are scientifically valid."
+File Support,openpyxl,The Retail dataset often comes in Excel (.xlsx) format. This library allows Pandas to read Excel files.
+Database,sqlite3,Built-in: You do not need to install this. It comes with Python.
